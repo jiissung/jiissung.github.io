@@ -1,0 +1,29 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+    color:black;
+    line-height: 1.0;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+}
+
+p {
+    margin: 10px, 20px;
+}
+
+nav {
+    background-color: aliceblue;
+    padding: 10px;
+    text-align: center;
+}
+
+img{
+    display:block;
+    margin: 20px auto;
+    max-width:75%;
+}
